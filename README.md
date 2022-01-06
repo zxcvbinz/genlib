@@ -7,6 +7,8 @@ Clone this repo in your flask project
 
 ```bash
 git clone git@github.com:zxcvbinz/genlib.git
+
+pip install -r requirements.txt
 ```
 
 ## Usage
